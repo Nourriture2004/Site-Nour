@@ -1,0 +1,78 @@
+body
+{
+background-color: #CCCCFF;
+}
+h1
+{
+text-align: center;
+background-color: rgba(153,0,204,1);
+font-family: Comic sans MS;
+color: white;
+font-style: oblique;
+}
+p
+{
+font-family: Comic sans MS;
+font-style: strong;
+color: Black;
+}
+h2
+{
+font-size: 140%;
+font-family:Arial;
+border: 1px solid black;
+padding: 30px;
+background-color: #D773FF;
+text-decoration: underline;
+}
+p1
+{
+	font-size: 100%;
+	font-family:Arial;
+}
+h3
+{
+font-size: 140%;
+font-family:Arial;
+border: 1px solid black;
+padding: 30px;
+text-decoration: underline;
+background-color:#D773FF
+}
+h4
+{
+	font-size: 120%;
+	font-family:Arial;
+	text-decoration: underline;
+}
+p4
+{
+	font-size: 100%;
+	font-family:Arial;
+}
+h5
+{
+	font-size: 120%;
+	font-family:Arial;
+	text-decoration: underline;
+}
+p5
+{
+	font-size: 100%;
+	font-family:Arial;
+}
+
+h6
+{
+	font-size: 140%;
+	font-family:Arial;
+	text-decoration: underline;
+	border: 1px solid black;
+	padding: 30px;
+	background-color: #D773FF
+}
+p7
+{
+	font-size: 100%;
+	font-family:Arial;
+}
